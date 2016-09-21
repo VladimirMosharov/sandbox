@@ -1,0 +1,238 @@
+commit eb3aebe54834d9d56d1f33233a534c7cc524feda
+Author: Vladimir Mosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 17:06:57 2016 +0300
+
+    last version
+
+commit 597eb0d0ff9535a7f35f2676acfdf9e577d7d68b
+Author: Vladimir Mosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 17:00:17 2016 +0300
+
+    deleting trash
+
+commit 115af4842fc47e95789d02ff9fa98b1dea180caa
+Merge: 1cb60e7 f2b578e
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Wed Sep 21 04:55:41 2016 +0300
+
+    Merge pull request #1 from VladimirMosharov/Constructors_reloaded_problem
+    
+    проверка ветки
+
+commit f2b578e6b34bb5b68ed19b526c2861b6353206a0
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 03:15:06 2016 +0300
+
+    проверка ветки
+
+commit 1cb60e713ef475b7c75497bc058e34d0b22e132a
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 03:10:25 2016 +0300
+
+    123
+
+commit f0d9a5db09435df206aa1ddcddca84645b69d3a4
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 03:07:10 2016 +0300
+
+    Тупик: перезагрузка конструктора не работает
+
+commit cb90db32ffdc2c8b1d07c931241cbef457a3e9f2
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Wed Sep 21 00:42:27 2016 +0300
+
+    Мелкие перестановки
+
+commit 1f1b3f9269ec87eb5e7722b7cdb2b8f7ee9066db
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:40:23 2016 +0300
+
+    удалили db.php
+
+commit 1b4124395fdc6adcbd514f4d975c231637acc229
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:37:04 2016 +0300
+
+    Нет ли коммитов?
+
+commit 545c51efe9eb4ba7840ebf239dc6c70402a6bbbc
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:31:30 2016 +0300
+
+    Проект готов.
+    
+    url: http://1110101.ru/b
+
+commit fff6376321282b9fc911eaa2240b9168338e157f
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:21:47 2016 +0300
+
+    ывфафыва
+
+commit e3a397e64c729072955b5b1074a2263d0ae676e5
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:17:14 2016 +0300
+
+    фыва
+
+commit 85680ff1d521336c0b2e68fe14b0b0557397ebba
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:15:27 2016 +0300
+
+    131313
+
+commit 00d7cbd43c3223724b6976b38bd08e4b1f1d8419
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 23:12:48 2016 +0300
+
+    1325
+
+commit 0312a0c7f2c84de8710df93b036630a8702b39ae
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:23:30 2016 +0300
+
+    Update README.md
+
+commit 0366a15ab2985f12cc1621f46ba31e9ab63aaf9f
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:21:22 2016 +0300
+
+    Update README.md
+
+commit 94a09840e2f5278d1738d552ff0131ce620fae5c
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:20:10 2016 +0300
+
+    Update README.md
+
+commit ffcf72b8464d90a3ed70fe7c6f745b6e09d82f43
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:16:15 2016 +0300
+
+    Update README.md
+
+commit 3c9e315f616362999517f7174bba6bcf690547e8
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:15:45 2016 +0300
+
+    Update README.md
+
+commit e3905780d2e7a2c9bb075d98fbf975b3956909ba
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:12:18 2016 +0300
+
+    Update README.md
+
+commit 9fc9b0da4d76d40399447bfad079aac46200870c
+Author: Владимир Мошаров <mosharov@yandex.ru>
+Date:   Tue Sep 20 22:10:07 2016 +0300
+
+    Update README.md
+
+commit 37feb451f4c29c84739db2beb5f8c61e075cb941
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:53:27 2016 +0300
+
+    Add files via upload
+
+commit 6fcd4fdb5731abfaf42fb181eba9222a5c187cae
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:52:18 2016 +0300
+
+    Add files via upload
+
+commit 1f341dccd87e2650873f6c3dd1eea4c555faf809
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:51:05 2016 +0300
+
+    Add files via upload
+
+commit a24772068f638a78a8f20dc2c30f818742f435f8
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:49:40 2016 +0300
+
+    Add files via upload
+
+commit a098c37d5bb9c8d580f2165cf52dd098203dca9c
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:48:58 2016 +0300
+
+    Add files via upload
+
+commit ae25eb8f96221cefd7a16d5c4880797ee38dd025
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:48:05 2016 +0300
+
+    Create README.md
+
+commit f75a2aca1948d72d19bb303b14d2e3e7fb2db3b8
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:47:31 2016 +0300
+
+    Delete README.md
+
+commit 20143e1dfa2db79bce1adb62145f9ae59661fe23
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:46:49 2016 +0300
+
+    Create wait_b.gif
+
+commit 56d5fd17d55ffb0fb884d4b5c70d18d705fd3e32
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:45:59 2016 +0300
+
+    Create ProximaNovaT-Thin.woff
+
+commit 8a8ee2841aa7e383bdb7476702515d0de2329e89
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:44:31 2016 +0300
+
+    Create style.css
+
+commit 7d4f068452a52200bec3cd66061e1db9af41096b
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:43:58 2016 +0300
+
+    Create login.js
+
+commit 488d00af9b29711e2cf92770920fe0c3a4d2f89f
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:43:18 2016 +0300
+
+    Create login_tpl.php
+
+commit 754c8e22b041a593f2375f46890be4092d80b78c
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:41:58 2016 +0300
+
+    Create dispatch.php
+
+commit 33598adca31c3ae0d41fb42d1cc2badddcb8e712
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:41:17 2016 +0300
+
+    Delete core
+
+commit ac1db636ac94f9d2c0aafb0869e44e89caf6431c
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:39:54 2016 +0300
+
+    Create db.php
+
+commit 1ca6d614bdb5a966682c5bb1efa0624db9a51e95
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:38:49 2016 +0300
+
+    Create core
+
+commit 7faba4de354bf881ca5d34cf272c37531dac505a
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 21:09:16 2016 +0300
+
+    Add files via upload
+
+commit 0dbab85bdffb2516f3418c484fe0afa4a9d20023
+Author: VladimirMosharov <mosharov@yandex.ru>
+Date:   Tue Sep 20 20:52:26 2016 +0300
+
+    Initial commit

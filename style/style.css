@@ -1,0 +1,59 @@
+@import url('reset.css');
+@import url('fonts.css');
+html{
+	font-family: ProximaNovaT;
+	font-size: 16px;
+}
+.clearfix{
+	clear:both;
+}
+.clearfix:after{
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.dlg_layer{
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #505050;
+	overflow: auto;
+	color: #dddddd;
+}
+.dlg_modal{
+	position: relative;
+	margin: 300px auto;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	background-color: #303030;
+	border-radius: 3px;
+	transition: 0.3s;
+}
+.dlg_caption{
+	font-size: 150%;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+	padding: 20px;
+	border-bottom: 1px solid gray;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+.dlg_content{
+	padding: 20px;
+	border-bottom: 1px solid gray;
+}
+.dlg_buttons{
+	padding: 20px;
+}
+.dlg_footer{
+	display: none;
+	height: 30px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+#login_wnd, #alert_wnd{
+	width: 400px;
+}

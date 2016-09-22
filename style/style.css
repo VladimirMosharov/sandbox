@@ -4,6 +4,52 @@ html{
 	font-family: ProximaNovaT;
 	font-size: 16px;
 }
+body{
+	background-color: #505050;
+}
+
+header{
+	background-color: #1a1a1a;
+	color: #dddddd;
+	padding: 30px;
+	text-align: center;
+}
+section{
+	background-color: #c9c9c9;
+}
+footer{
+	height: 50px;
+	background-color: #1a1a1a;
+}
+h1{
+	font-family: ProximaNovaT;
+	font-size: 170%;
+	padding: 20px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+h2{
+	font-family: ProximaNovaT;
+	font-size: 150%;
+	padding: 10px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+ul{
+	list-style: initial;
+	padding-left: 30px;
+}
+li{
+	padding: 10px;
+}
+p{
+	padding: 15px;
+	text-align: justify;
+}
+blockquote{
+	font-size: 80%;
+	font-style: italic;
+	padding: 15px;
+	text-align: right;
+}
 .clearfix{
 	clear:both;
 }
@@ -15,6 +61,53 @@ html{
 	line-height: 0;
 	height: 0;
 }
+.wrapper{
+	width: 1100px;
+	margin: auto;
+	position: relative;
+}
+.vspace_100{
+	height: 100px;
+}
+/********************    COMMON CONTROLS    *************************/
+.input_label{
+	font-size: 120%;
+	float: left;
+}
+.txt_input{
+	font-family: ProximaNovaT;
+	outline: none;
+	border: none;
+	background: #dddddd;
+	font-size: 110%;
+	width: 200px;
+	float: right;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.btn_input{
+	background: #1a1a1a;
+	font-family: ProximaNovaT;
+	font-size: 100%;
+	color: #dddddd;
+	border: 1px outset #393939;
+	border-radius: 5px;
+	box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.3);
+	outline: none;
+	padding: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;;
+	margin-left: 5px;
+	float: right;
+}
+.btn_input:hover, .btn_input:focus{
+	background: gray;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+	cursor: pointer;
+	transition-delay: 0.1s;
+}
+/********************    DIALOGS    ********************************/
 .dlg_layer{
 	position: fixed;
 	top: 0;
@@ -48,12 +141,26 @@ html{
 .dlg_buttons{
 	padding: 20px;
 }
-.dlg_footer{
-	display: none;
-	height: 30px;
-	border-bottom-left-radius: 3px;
-	border-bottom-right-radius: 3px;
+.row_block{
+	width: 90%;
+	margin: auto;
+	padding: 5px;
 }
+.wrong_input{
+	box-shadow: 0px 0px 10px red;
+}
+/********************    OTHERS    ********************************/
 #login_wnd, #alert_wnd{
 	width: 400px;
+}
+#btnExit{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.text_content{
+	font-family: OpenSans-Regular, Tahoma, Arial;
+	padding-left: 100px;
+	padding-right: 50px;
+	line-height: 23px;
 }

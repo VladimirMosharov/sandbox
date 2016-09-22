@@ -5,7 +5,7 @@
 			Сообщение:
 		</div>
 		<div class="dlg_content clearfix">
-			<div id="alert_msg">
+			<div id="alert_msg" class="clearfix row_block">
 				
 			</div>
 		</div>

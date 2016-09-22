@@ -25,16 +25,18 @@ function startState(){
 	}
 	var Listeners = {
 		load: function(){
-			window.addEventListener('keypress', checkKey);
+			window.addEventListener('keyup', checkKey);
 			iface.btnOk.addEventListener('click', readDone);
 		},
 		unload: function(){
-			window.removeEventListener('keypress', checkKey);
+			window.removeEventListener('keyup', checkKey);
 			iface.btnOk.removeEventListener('click', readDone);
 		}
 	}
 	function checkKey(e){
-		console.log(e.keyCode);
+		if(e.keyCode == 27 || e.keyCode == 13 || e.keyCode == 32){
+			readDone();
+		}
 	}	
 	function readDone(){
 		Listeners.unload();

@@ -10,16 +10,7 @@ function startState(){
 	function loadTemplate(response){
 		document.body.innerHTML = response.page_content;
 		//-----------------------------------------------//
-		iface.name = document.getElementById('user_name');
-		iface.login = document.getElementById('user_login');
-		iface.id = document.getElementById('user_id');
-		iface.level = document.getElementById('user_level');
 		iface.btnExit = document.getElementById('btnExit');
-		
-		iface.name.innerHTML = app.user.name;
-		iface.login.innerHTML = app.user.login;
-		iface.id.innerHTML = app.user.id;
-		iface.level.innerHTML = app.user.level;
 		//-----------------------------------------------//
 		Listeners.load();
 		wait_load('stop');

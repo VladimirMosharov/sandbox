@@ -14,3 +14,7 @@
 	font-family: ProximaNovaT;
 	src: url('fonts/ProximaNovaT-Thin.woff');
 }
+@font-face{
+	font-family: OpenSans-Regular;
+	src: url('fonts/OpenSans-Regular.woff');
+}

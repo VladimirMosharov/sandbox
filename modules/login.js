@@ -35,11 +35,11 @@ function startState(){
 	}
 	var Listeners = {
 		load: function(){
-			window.addEventListener('keypress', checkKey);
+			window.addEventListener('keyup', checkKey);
 			iface.btnOk.addEventListener('click', validateLoginForm);
 		},
 		unload: function(){
-			window.removeEventListener('keypress', checkKey);
+			window.removeEventListener('keyup', checkKey);
 			iface.btnOk.removeEventListener('click', validateLoginForm);
 		}
 	}

@@ -12,11 +12,16 @@
 			}
 			break;
 		case 'authentificate':
-			$answer['result'] = 'no_passed';
-			$answer['name'] = 'Администратор';
-			$answer['login'] = 'admin';
-			$answer['id'] = '1';
-			$answer['level'] = '0';
+			if($recived_data->auth_pair->login == '1' && $recived_data->auth_pair->pass == '1'){
+				$answer['result'] = 'passed';
+				$answer['name'] = 'Администратор';
+				$answer['login'] = 'admin';
+				$answer['id'] = '1';
+				$answer['level'] = '0';
+			}
+			else{
+				$answer['result'] = 'failed';
+			}
 			break;
 		default:
 			//

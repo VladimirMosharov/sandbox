@@ -2,7 +2,7 @@
 <div class="dlg_layer">
 	<div class="dlg_modal v_center" id="login_wnd">
 		<div class="dlg_caption clearfix">
-			Авторизация пользователя
+			Авторизация пользователя:
 		</div>
 		<div class="dlg_content clearfix">
 			<div class="row_block clearfix">
@@ -25,3 +25,5 @@
 		</div>
 	</div>
 </div>
+
+<div style="position: absolute; color: white;">For testing purpose: login 1 pass 1</div>
